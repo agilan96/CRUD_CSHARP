@@ -1,0 +1,12 @@
+----------Welcome to HigginBothams-----------
+Customer ID0
+Customer NAME
+Customer ADDRESS
+DATE:09-24-2019
+--------------------Your Bill--------------------
+S.No  BookId	BookName 	Price  Qty	Total
+
+11	32	HTML & CSS	150   	2	300
+--------------------------------------------------
+The Total Cost is:300
+Thank You....Visit Again!
